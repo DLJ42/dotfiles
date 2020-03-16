@@ -11,6 +11,7 @@ Just a few resources I found to be helpful when learning
 
 * https://gist.github.com/MohamedAlaa/2961058
 * https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
+* https://github.com/thoughtbot/dotfiles/blob/master/tmux.conf
 
 ## nano
 
