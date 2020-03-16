@@ -11,4 +11,5 @@
 
 * enable mouse support -> ``set mouse``
 * enable line numbers -> ``set linenumbers``
-* tbd.. 
+* enable text wrapping -> ``set sofwrap``
+ 
