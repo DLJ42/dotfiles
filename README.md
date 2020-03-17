@@ -16,6 +16,7 @@ Just a few resources I found to be helpful when learning
 ## nano
 
 * https://unix.stackexchange.com/questions/122795/long-line-wrapping-in-nano
+* https://github.com/serialhex/nano-highlight
 
 ## vim ``\*-_-/*`` 
 
